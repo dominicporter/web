@@ -5,7 +5,7 @@
 ## How to add a new sheet to **`hugoconfig.yml`**?
 
 1. First you need to create a [googlesheet](https://docs.google.com/spreadsheets) then `share it` and `publish it`.
-2. Once the googlesheet is ready add a new object to `hugoconfig.xml` and populate these fields:
+2. Once the googlesheet is ready add a new object to `hugoconfig.yml` and populate these fields:
 
 Key|Value
 ---|---
